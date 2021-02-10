@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
 
 """
 Created by: Arnab Das
@@ -225,10 +223,3 @@ butequal.place(x=10,y=460)
 
 
 me.mainloop()
-
-
-# In[ ]:
-
-
-
-
